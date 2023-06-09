@@ -28,10 +28,10 @@ GitHub: [yash7xm](https://github.com/yash7xm)
 
 To run Semicolon locally, follow these steps:
 
-1. Clone the repository: console.log(git clone https://github.com/your-username/semicolon.git)
-2. Install the dependencies: console.log(cd semicolon npm install)
-3. Start the application: console.log(Start the application:)
-4. Access Semicolon in your browser: console.log(http://localhost:8080)
+1. Clone the repository: ``` git clone https://github.com/your-username/semicolon.git ```
+2. Install the dependencies: ``` cd semicolon && npm install ```
+3. Start the application: ``` npm start ```
+4. Access Semicolon in your browser: ``` http://localhost:8080 ```
 
 ## Feedback and Support
 
