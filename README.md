@@ -1,20 +1,20 @@
 # Semicolon
 
-Semicolon is a touch typing site designed to enhance your typing skills and improve your productivity. It offers a wide range of features that make learning to type an engaging and enjoyable experience. With Semicolon, you can read and type college syllabus notes, compete with other users, track your progress using line charts, and monitor your consistency with a calendar heatmap.
+Semicolon is a touch typing site designed to enhance your typing skills and improve your productivity. It offers a wide range of features that make learning to type an engaging and enjoyable experience. With Semicolon, you can read and type college notes, compete with other users, track your progress using line charts, and monitor your consistency with a calendar heatmap.
 
 ## Features
 
 ### Typing Practice
-Access a collection of college syllabus notes to read and type, helping you improve your typing speed and accuracy while familiarizing yourself with academic content.
+Access a collection of college notes to read and type, helping you improve your typing speed and accuracy while familiarizing yourself with academic content.
 
 ### Competitive Mode
 Compete with other users and see how you stack up against the competition.
 
 ### Progress Tracking
-Utilize the graphs to track your progress over time. Monitor your typing speed (wpm) and accuracy to identify areas for improvement.
+Utilize the graph to track your progress over time. Monitor your typing speed (wpm) and accuracy to identify areas for improvement.
 
 ### Consistency Tracking
-The calendar heatmap provides a visual representation of your typing consistency. It helps you stay motivated by highlighting days when you consistently practiced typing.
+The heatmap provides a visual representation of your typing consistency. It helps you stay motivated by highlighting days when you consistently practiced typing.
 
 ## Collaborators
 
