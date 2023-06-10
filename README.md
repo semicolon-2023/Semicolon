@@ -1,4 +1,4 @@
-# Semicolon
+# Semicolon23
 
 Semicolon is a touch typing site designed to enhance your typing skills and improve your productivity. It offers a wide range of features that make learning to type an engaging and enjoyable experience. With Semicolon, you can read and type college syllabus notes, compete with other users, track your progress using line charts, and monitor your consistency with a calendar heatmap.
 
