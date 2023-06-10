@@ -33,7 +33,7 @@ To run Semicolon locally, follow these steps:
 2. Install the dependencies: 
 ``` cd semicolon && npm install ```
 3. Start the application: 
-``` npm start ```
+``` node index ```
 4. Access Semicolon in your browser: 
 ``` http://localhost:8080 ```
 
